@@ -29,6 +29,9 @@
           <li class="nav-item">
             <a class="nav-link" href="contact.php">JOIN US</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="with u.php">CONTACT US</a>
+          </li>
         </ul>
       </nav>
 
